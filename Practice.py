@@ -7,7 +7,7 @@ bmi_as_int = int(bmi)
 print(bmi_as_int)
 
 
-if bmi > 24.9:
+if bmi < 24:
     print('You are in the underweight range!')
 
 else:
